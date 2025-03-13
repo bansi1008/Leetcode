@@ -11,10 +11,10 @@ public class Stack {
             this.val = val;
         }
     }
-    public Stack(int val) {
-        Node newNode = new Node(val);
-        top = newNode;
-        size = 1;
+    public  Stack() {
+
+        top = null;
+        size = 0;
 
 
     }
@@ -32,14 +32,15 @@ public class Stack {
         size++;
 
     }
-    public int pop() {
+    public Node pop() {
         if (top == null) {
             System.out.println("Stack is empty");
         }
-        int val = top.val;
-        top = top.next;
+       Node a = top;
+       top=top.next;
+       a.next = null;
         size--;
-        return val;
+        return a;
 
     }
 
