@@ -13,6 +13,8 @@ public class Link {
         }
 
     }
+
+
     public void insert(int val) {
         Node newNode = new Node(val);
         if(size == 0) {
