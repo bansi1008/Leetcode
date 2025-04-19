@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansi1008/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,4 +17,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansi1008/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
