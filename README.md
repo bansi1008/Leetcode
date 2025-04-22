@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/bansi1008/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
