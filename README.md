@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bansi1008/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/bansi1008/Leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -33,4 +34,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bansi1008/Leetcode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/bansi1008/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
