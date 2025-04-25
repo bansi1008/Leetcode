@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/bansi1008/Leetcode/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
 | ------- |
