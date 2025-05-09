@@ -12,11 +12,13 @@ This repository contains my solutions to LeetCode problems.
 | [0039-combination-sum](https://github.com/bansi1008/Leetcode/tree/master/0039-combination-sum) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bansi1008/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0932-monotonic-array](https://github.com/bansi1008/Leetcode/tree/master/0932-monotonic-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansi1008/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +29,7 @@ This repository contains my solutions to LeetCode problems.
 | [0007-reverse-integer](https://github.com/bansi1008/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/bansi1008/Leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +44,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bansi1008/Leetcode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -56,6 +60,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bansi1008/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/bansi1008/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,4 +70,5 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bansi1008/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
