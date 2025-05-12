@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansi1008/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/bansi1008/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bansi1008/Leetcode/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/bansi1008/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
