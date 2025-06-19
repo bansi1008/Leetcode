@@ -89,4 +89,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bansi1008/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bansi1008/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
