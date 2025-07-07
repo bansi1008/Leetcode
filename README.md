@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bansi1008/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/bansi1008/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bansi1008/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bansi1008/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bansi1008/Leetcode/tree/master/0058-length-of-last-word) |
@@ -84,6 +86,7 @@ This repository contains my solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bansi1008/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
 ## Sliding Window
 |  |
