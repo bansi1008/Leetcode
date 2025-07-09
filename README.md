@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/bansi1008/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bansi1008/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bansi1008/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/bansi1008/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/bansi1008/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/bansi1008/Leetcode/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode problems.
 | [0011-container-with-most-water](https://github.com/bansi1008/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bansi1008/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/bansi1008/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
