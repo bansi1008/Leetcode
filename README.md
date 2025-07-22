@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems.
 | [0016-3sum-closest](https://github.com/bansi1008/Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bansi1008/Leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/bansi1008/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bansi1008/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bansi1008/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/bansi1008/Leetcode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
