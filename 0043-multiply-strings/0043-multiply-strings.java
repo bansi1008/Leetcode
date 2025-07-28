@@ -9,7 +9,7 @@ class Solution {
     }
 
     private BigInteger strtoint(String str) {
-        // Custom manual parsing (optional)
+       
         BigInteger result = BigInteger.ZERO;
         for (int i = 0; i < str.length(); i++) {
             char ch = str.charAt(i);
@@ -18,7 +18,7 @@ class Solution {
         }
         return result;
 
-        // Or: return new BigInteger(str); // Cleaner if manual parsing isn't needed
+       
     }
 
     private String convert(BigInteger number) {
