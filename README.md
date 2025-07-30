@@ -122,4 +122,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bansi1008/Leetcode/tree/master/0043-multiply-strings) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
