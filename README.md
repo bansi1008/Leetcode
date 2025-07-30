@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0932-monotonic-array](https://github.com/bansi1008/Leetcode/tree/master/0932-monotonic-array) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
+| [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,10 +123,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bansi1008/Leetcode/tree/master/0043-multiply-strings) |
+| [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
+| [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
