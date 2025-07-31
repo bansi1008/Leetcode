@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems.
 | [0932-monotonic-array](https://github.com/bansi1008/Leetcode/tree/master/0932-monotonic-array) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,8 +130,10 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
