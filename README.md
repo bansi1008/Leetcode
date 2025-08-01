@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems.
 | [0031-next-permutation](https://github.com/bansi1008/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/bansi1008/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/bansi1008/Leetcode/tree/master/0041-first-missing-positive) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/bansi1008/Leetcode/tree/master/0217-contains-duplicate) |
@@ -29,6 +30,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansi1008/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -56,6 +58,7 @@ This repository contains my solutions to LeetCode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bansi1008/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/bansi1008/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
