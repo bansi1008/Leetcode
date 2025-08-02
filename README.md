@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | [0219-contains-duplicate-ii](https://github.com/bansi1008/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
 | [0932-monotonic-array](https://github.com/bansi1008/Leetcode/tree/master/0932-monotonic-array) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
@@ -117,6 +118,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bansi1008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/bansi1008/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Database
 |  |
 | ------- |
