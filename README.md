@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems.
 | [0031-next-permutation](https://github.com/bansi1008/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/bansi1008/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/bansi1008/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
@@ -38,6 +39,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bansi1008/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/bansi1008/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
 ## Math
@@ -111,6 +113,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bansi1008/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
 ## Sliding Window
