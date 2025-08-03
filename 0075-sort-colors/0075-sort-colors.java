@@ -14,6 +14,10 @@ class Solution {
                     s=true;
                 }
             }
+            if(!s){
+            break;
+        }
+        
         }
         
     }
