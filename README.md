@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bansi1008/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/bansi1008/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +164,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bansi1008/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
