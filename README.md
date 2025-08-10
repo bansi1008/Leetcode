@@ -103,11 +103,13 @@ This repository contains my solutions to LeetCode problems.
 | [0242-valid-anagram](https://github.com/bansi1008/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bansi1008/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/bansi1008/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/bansi1008/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/bansi1008/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Hash Table
 |  |
 | ------- |
