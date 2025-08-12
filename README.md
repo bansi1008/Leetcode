@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems.
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +171,7 @@ This repository contains my solutions to LeetCode problems.
 | [0043-multiply-strings](https://github.com/bansi1008/Leetcode/tree/master/0043-multiply-strings) |
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Stack
 |  |
 | ------- |
