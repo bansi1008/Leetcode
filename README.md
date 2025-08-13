@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems.
 | [0932-monotonic-array](https://github.com/bansi1008/Leetcode/tree/master/0932-monotonic-array) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
@@ -129,6 +130,7 @@ This repository contains my solutions to LeetCode problems.
 | [0242-valid-anagram](https://github.com/bansi1008/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -145,6 +147,7 @@ This repository contains my solutions to LeetCode problems.
 | [0242-valid-anagram](https://github.com/bansi1008/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,4 +221,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
