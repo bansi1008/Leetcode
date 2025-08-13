@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems.
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1580-shuffle-the-array](https://github.com/bansi1008/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
