@@ -28,7 +28,7 @@ class Solution {
                     group.add(nums[l]);
                     group.add(nums[r]);
                      li.add(group);
-                      while (l < r && nums[l] == nums[l + 1]) l++;
+                    while (l < r && nums[l] == nums[l + 1]) l++;
                     while (l < r && nums[r] == nums[r - 1]) r--;
 
                     l++;
