@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems.
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
+| [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Two Pointers
 |  |
@@ -160,6 +161,7 @@ This repository contains my solutions to LeetCode problems.
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,4 +231,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
