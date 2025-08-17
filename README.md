@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems.
 | [0015-3sum](https://github.com/bansi1008/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bansi1008/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bansi1008/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bansi1008/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bansi1008/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bansi1008/Leetcode/tree/master/0075-sort-colors) |
@@ -248,6 +249,7 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bansi1008/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/bansi1008/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0908-middle-of-the-linked-list) |
