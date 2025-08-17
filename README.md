@@ -236,9 +236,14 @@ This repository contains my solutions to LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
