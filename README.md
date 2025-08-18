@@ -63,6 +63,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bansi1008/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bansi1008/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bansi1008/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/bansi1008/Leetcode/tree/master/0029-divide-two-integers) |
@@ -240,6 +241,7 @@ This repository contains my solutions to LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bansi1008/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bansi1008/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
@@ -250,6 +252,7 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bansi1008/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bansi1008/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bansi1008/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/bansi1008/Leetcode/tree/master/0141-linked-list-cycle) |
