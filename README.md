@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/bansi1008/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
@@ -172,6 +173,7 @@ This repository contains my solutions to LeetCode problems.
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -179,6 +181,7 @@ This repository contains my solutions to LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/bansi1008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/bansi1008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bansi1008/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Database
 |  |
