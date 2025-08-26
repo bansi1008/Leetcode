@@ -79,6 +79,7 @@ This repository contains my solutions to LeetCode problems.
 | [0069-sqrtx](https://github.com/bansi1008/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/bansi1008/Leetcode/tree/master/0390-elimination-game) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -277,6 +278,7 @@ This repository contains my solutions to LeetCode problems.
 | [0143-reorder-list](https://github.com/bansi1008/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/bansi1008/Leetcode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
