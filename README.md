@@ -98,6 +98,7 @@ This repository contains my solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/bansi1008/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bansi1008/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bansi1008/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/bansi1008/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -217,6 +218,7 @@ This repository contains my solutions to LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/bansi1008/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -272,6 +274,7 @@ This repository contains my solutions to LeetCode problems.
 | [0021-merge-two-sorted-lists](https://github.com/bansi1008/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bansi1008/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bansi1008/Leetcode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/bansi1008/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
@@ -287,6 +290,7 @@ This repository contains my solutions to LeetCode problems.
 | [0021-merge-two-sorted-lists](https://github.com/bansi1008/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bansi1008/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/bansi1008/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/bansi1008/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
