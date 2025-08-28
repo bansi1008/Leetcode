@@ -137,6 +137,7 @@ This repository contains my solutions to LeetCode problems.
 | [0125-valid-palindrome](https://github.com/bansi1008/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bansi1008/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bansi1008/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/bansi1008/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/bansi1008/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/bansi1008/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -160,6 +161,7 @@ This repository contains my solutions to LeetCode problems.
 | [0242-valid-anagram](https://github.com/bansi1008/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/bansi1008/Leetcode/tree/master/0383-ransom-note) |
 | [0940-fruit-into-baskets](https://github.com/bansi1008/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -265,6 +267,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/bansi1008/Leetcode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
