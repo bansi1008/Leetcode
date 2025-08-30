@@ -107,6 +107,7 @@ This repository contains my solutions to LeetCode problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/bansi1008/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -186,6 +187,7 @@ This repository contains my solutions to LeetCode problems.
 | [0217-contains-duplicate](https://github.com/bansi1008/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bansi1008/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 ## Dynamic Programming
@@ -244,6 +246,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
@@ -264,6 +267,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bansi1008/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -349,4 +353,8 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bansi1008/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
