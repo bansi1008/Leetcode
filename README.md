@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1580-shuffle-the-array](https://github.com/bansi1008/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bansi1008/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems.
 | [0011-container-with-most-water](https://github.com/bansi1008/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/bansi1008/Leetcode/tree/master/0044-wildcard-matching) |
 | [0680-valid-palindrome-ii](https://github.com/bansi1008/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -192,6 +194,7 @@ This repository contains my solutions to LeetCode problems.
 | [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
