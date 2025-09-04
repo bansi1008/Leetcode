@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | [0049-group-anagrams](https://github.com/bansi1008/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/bansi1008/Leetcode/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/bansi1008/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansi1008/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
@@ -206,6 +207,7 @@ This repository contains my solutions to LeetCode problems.
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/bansi1008/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
