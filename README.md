@@ -86,6 +86,7 @@ This repository contains my solutions to LeetCode problems.
 | [0050-powx-n](https://github.com/bansi1008/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/bansi1008/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
@@ -210,6 +211,7 @@ This repository contains my solutions to LeetCode problems.
 | [0044-wildcard-matching](https://github.com/bansi1008/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bansi1008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/bansi1008/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -321,6 +323,7 @@ This repository contains my solutions to LeetCode problems.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
