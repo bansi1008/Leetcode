@@ -145,6 +145,7 @@ This repository contains my solutions to LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/bansi1008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bansi1008/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bansi1008/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bansi1008/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/bansi1008/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/bansi1008/Leetcode/tree/master/0044-wildcard-matching) |
@@ -188,6 +189,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bansi1008/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bansi1008/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bansi1008/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bansi1008/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bansi1008/Leetcode/tree/master/0047-permutations-ii) |
@@ -213,6 +215,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bansi1008/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/bansi1008/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/bansi1008/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
