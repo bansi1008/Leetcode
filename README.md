@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems.
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/bansi1008/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/bansi1008/Leetcode/tree/master/0740-delete-and-earn) |
@@ -398,6 +399,7 @@ This repository contains my solutions to LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
+| [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -434,6 +436,7 @@ This repository contains my solutions to LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 ## Data Stream
 |  |
 | ------- |
@@ -450,8 +453,10 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
