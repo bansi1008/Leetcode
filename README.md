@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bansi1008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bansi1008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bansi1008/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -395,6 +396,7 @@ This repository contains my solutions to LeetCode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/bansi1008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
@@ -430,6 +432,7 @@ This repository contains my solutions to LeetCode problems.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bansi1008/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bansi1008/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 ## Data Stream
 |  |
@@ -443,4 +446,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/bansi1008/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
