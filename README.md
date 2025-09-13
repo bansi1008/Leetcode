@@ -390,6 +390,7 @@ This repository contains my solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/bansi1008/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -423,12 +424,14 @@ This repository contains my solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/bansi1008/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bansi1008/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/bansi1008/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/bansi1008/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
