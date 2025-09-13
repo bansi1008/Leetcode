@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems.
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/bansi1008/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
@@ -83,6 +84,7 @@ This repository contains my solutions to LeetCode problems.
 | [0191-number-of-1-bits](https://github.com/bansi1008/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bansi1008/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bansi1008/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
 ## Math
@@ -282,6 +284,7 @@ This repository contains my solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/bansi1008/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/bansi1008/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -297,6 +300,7 @@ This repository contains my solutions to LeetCode problems.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
@@ -391,6 +395,7 @@ This repository contains my solutions to LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bansi1008/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -425,6 +430,7 @@ This repository contains my solutions to LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bansi1008/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
