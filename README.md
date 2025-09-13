@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 | [0049-group-anagrams](https://github.com/bansi1008/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/bansi1008/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bansi1008/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bansi1008/Leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/bansi1008/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansi1008/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -142,6 +143,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bansi1008/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/bansi1008/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bansi1008/Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/bansi1008/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
@@ -201,6 +203,7 @@ This repository contains my solutions to LeetCode problems.
 | [0046-permutations](https://github.com/bansi1008/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bansi1008/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/bansi1008/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/bansi1008/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bansi1008/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/bansi1008/Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0216-combination-sum-iii) |
