@@ -164,6 +164,7 @@ This repository contains my solutions to LeetCode problems.
 | [0076-minimum-window-substring](https://github.com/bansi1008/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/bansi1008/Leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/bansi1008/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bansi1008/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/bansi1008/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bansi1008/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bansi1008/Leetcode/tree/master/0383-ransom-note) |
@@ -297,6 +298,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/bansi1008/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bansi1008/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -412,6 +414,7 @@ This repository contains my solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bansi1008/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
@@ -480,4 +483,5 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bansi1008/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bansi1008/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
