@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems.
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
+| [1325-path-with-maximum-probability](https://github.com/bansi1008/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1580-shuffle-the-array](https://github.com/bansi1008/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -328,6 +329,7 @@ This repository contains my solutions to LeetCode problems.
 | [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/bansi1008/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -512,8 +514,10 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/bansi1008/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/bansi1008/Leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
