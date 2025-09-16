@@ -327,6 +327,7 @@ This repository contains my solutions to LeetCode problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/bansi1008/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -426,6 +427,7 @@ This repository contains my solutions to LeetCode problems.
 | [0513-find-bottom-left-tree-value](https://github.com/bansi1008/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bansi1008/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -470,6 +472,7 @@ This repository contains my solutions to LeetCode problems.
 | [0513-find-bottom-left-tree-value](https://github.com/bansi1008/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bansi1008/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
 ## Data Stream
 |  |
 | ------- |
@@ -505,4 +508,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bansi1008/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
