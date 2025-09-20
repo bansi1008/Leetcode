@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems.
 | [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bansi1008/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ This repository contains my solutions to LeetCode problems.
 | [0940-fruit-into-baskets](https://github.com/bansi1008/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 ## Backtracking
 |  |
 | ------- |
