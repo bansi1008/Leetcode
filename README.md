@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems.
 | [0740-delete-and-earn](https://github.com/bansi1008/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bansi1008/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/bansi1008/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/bansi1008/Leetcode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/bansi1008/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bansi1008/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -79,6 +80,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/bansi1008/Leetcode/tree/master/0278-first-bad-version) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bansi1008/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/bansi1008/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bansi1008/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Divide and Conquer
 |  |
