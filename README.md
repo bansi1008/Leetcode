@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 | [0047-permutations-ii](https://github.com/bansi1008/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bansi1008/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bansi1008/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/bansi1008/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bansi1008/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bansi1008/Leetcode/tree/master/0090-subsets-ii) |
@@ -151,6 +152,7 @@ This repository contains my solutions to LeetCode problems.
 | [0011-container-with-most-water](https://github.com/bansi1008/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/bansi1008/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bansi1008/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/bansi1008/Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/bansi1008/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Bit Manipulation
@@ -254,6 +256,7 @@ This repository contains my solutions to LeetCode problems.
 | [0044-wildcard-matching](https://github.com/bansi1008/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bansi1008/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bansi1008/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
