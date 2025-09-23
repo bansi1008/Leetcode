@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems.
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bansi1008/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/bansi1008/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/bansi1008/Leetcode/tree/master/0740-delete-and-earn) |
@@ -161,6 +162,7 @@ This repository contains my solutions to LeetCode problems.
 | [0179-largest-number](https://github.com/bansi1008/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/bansi1008/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/bansi1008/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bansi1008/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
@@ -279,6 +281,7 @@ This repository contains my solutions to LeetCode problems.
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bansi1008/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/bansi1008/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bansi1008/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
