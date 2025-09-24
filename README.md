@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems.
 | [0078-subsets](https://github.com/bansi1008/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bansi1008/Leetcode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bansi1008/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansi1008/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bansi1008/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bansi1008/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bansi1008/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -115,6 +116,7 @@ This repository contains my solutions to LeetCode problems.
 | [0069-sqrtx](https://github.com/bansi1008/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansi1008/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/bansi1008/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
@@ -328,6 +330,7 @@ This repository contains my solutions to LeetCode problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/bansi1008/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansi1008/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/bansi1008/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
