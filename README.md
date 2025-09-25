@@ -125,6 +125,7 @@ This repository contains my solutions to LeetCode problems.
 | [0227-basic-calculator-ii](https://github.com/bansi1008/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/bansi1008/Leetcode/tree/master/0390-elimination-game) |
+| [0796-reaching-points](https://github.com/bansi1008/Leetcode/tree/master/0796-reaching-points) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
