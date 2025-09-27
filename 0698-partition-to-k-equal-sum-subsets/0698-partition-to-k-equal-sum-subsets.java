@@ -49,13 +49,4 @@ class Solution {
         }
     }
 
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-
-        int[] nums1 = {4,3,2,3,5,2,1};
-        System.out.println(sol.canPartitionKSubsets(nums1, 4)); 
-
-        int[] nums2 = {1,2,3,4};
-        System.out.println(sol.canPartitionKSubsets(nums2, 3)); 
-    }
 }
