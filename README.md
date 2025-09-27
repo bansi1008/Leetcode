@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems.
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bansi1008/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/bansi1008/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
@@ -191,6 +192,7 @@ This repository contains my solutions to LeetCode problems.
 | [0090-subsets-ii](https://github.com/bansi1008/Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/bansi1008/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String
 |  |
 | ------- |
@@ -265,6 +267,7 @@ This repository contains my solutions to LeetCode problems.
 | [0113-path-sum-ii](https://github.com/bansi1008/Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/bansi1008/Leetcode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -313,6 +316,7 @@ This repository contains my solutions to LeetCode problems.
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/bansi1008/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bansi1008/Leetcode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bansi1008/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/bansi1008/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -443,6 +447,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -634,4 +639,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bansi1008/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
