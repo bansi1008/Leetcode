@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems.
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/bansi1008/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/bansi1008/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bansi1008/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/bansi1008/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/bansi1008/Leetcode/tree/master/0932-monotonic-array) |
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/bansi1008/Leetcode/tree/master/0390-elimination-game) |
 | [0796-reaching-points](https://github.com/bansi1008/Leetcode/tree/master/0796-reaching-points) |
+| [0830-largest-triangle-area](https://github.com/bansi1008/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -643,4 +645,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/bansi1008/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
