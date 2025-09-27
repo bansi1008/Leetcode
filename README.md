@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 | [0047-permutations-ii](https://github.com/bansi1008/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bansi1008/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/bansi1008/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bansi1008/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bansi1008/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bansi1008/Leetcode/tree/master/0075-sort-colors) |
@@ -353,6 +354,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bansi1008/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/bansi1008/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/bansi1008/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bansi1008/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
@@ -596,6 +598,7 @@ This repository contains my solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bansi1008/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 ## Trie
