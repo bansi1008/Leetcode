@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems.
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/bansi1008/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/bansi1008/Leetcode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -308,6 +309,7 @@ This repository contains my solutions to LeetCode problems.
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/bansi1008/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bansi1008/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/bansi1008/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
