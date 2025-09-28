@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems.
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bansi1008/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bansi1008/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -105,6 +106,7 @@ This repository contains my solutions to LeetCode problems.
 | [0882-peak-index-in-a-mountain-array](https://github.com/bansi1008/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/bansi1008/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bansi1008/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 ## Divide and Conquer
@@ -196,6 +198,7 @@ This repository contains my solutions to LeetCode problems.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bansi1008/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
@@ -309,6 +312,7 @@ This repository contains my solutions to LeetCode problems.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bansi1008/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/bansi1008/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -360,6 +364,7 @@ This repository contains my solutions to LeetCode problems.
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/bansi1008/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
 | ------- |
@@ -417,6 +422,7 @@ This repository contains my solutions to LeetCode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/bansi1008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Interactive
 |  |
 | ------- |
