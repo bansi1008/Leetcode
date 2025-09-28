@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems.
 | [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/bansi1008/Leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/bansi1008/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/bansi1008/Leetcode/tree/master/0455-assign-cookies) |
@@ -140,6 +141,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0390-elimination-game](https://github.com/bansi1008/Leetcode/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/bansi1008/Leetcode/tree/master/0396-rotate-function) |
 | [0796-reaching-points](https://github.com/bansi1008/Leetcode/tree/master/0796-reaching-points) |
 | [0830-largest-triangle-area](https://github.com/bansi1008/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
@@ -332,6 +334,7 @@ This repository contains my solutions to LeetCode problems.
 | [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/bansi1008/Leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/bansi1008/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bansi1008/Leetcode/tree/master/0494-target-sum) |
