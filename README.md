@@ -89,6 +89,7 @@ This repository contains my solutions to LeetCode problems.
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bansi1008/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -270,6 +271,7 @@ This repository contains my solutions to LeetCode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -385,6 +387,7 @@ This repository contains my solutions to LeetCode problems.
 | [0874-backspace-string-compare](https://github.com/bansi1008/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Stack
@@ -413,6 +416,7 @@ This repository contains my solutions to LeetCode problems.
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/bansi1008/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 ## Monotonic Stack
 |  |
 | ------- |
