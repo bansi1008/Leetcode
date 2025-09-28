@@ -89,6 +89,7 @@ This repository contains my solutions to LeetCode problems.
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bansi1008/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -269,6 +270,7 @@ This repository contains my solutions to LeetCode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 ## Backtracking
@@ -454,6 +456,7 @@ This repository contains my solutions to LeetCode problems.
 | [0383-ransom-note](https://github.com/bansi1008/Leetcode/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/bansi1008/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
