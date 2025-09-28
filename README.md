@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/bansi1008/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bansi1008/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bansi1008/Leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/bansi1008/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bansi1008/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bansi1008/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bansi1008/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -317,6 +318,7 @@ This repository contains my solutions to LeetCode problems.
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/bansi1008/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bansi1008/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bansi1008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/bansi1008/Leetcode/tree/master/0152-maximum-product-subarray) |
