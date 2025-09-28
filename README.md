@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/bansi1008/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bansi1008/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -137,6 +138,7 @@ This repository contains my solutions to LeetCode problems.
 | [0227-basic-calculator-ii](https://github.com/bansi1008/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/bansi1008/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0390-elimination-game](https://github.com/bansi1008/Leetcode/tree/master/0390-elimination-game) |
 | [0796-reaching-points](https://github.com/bansi1008/Leetcode/tree/master/0796-reaching-points) |
 | [0830-largest-triangle-area](https://github.com/bansi1008/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -327,6 +329,7 @@ This repository contains my solutions to LeetCode problems.
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bansi1008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/bansi1008/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
