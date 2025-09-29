@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems.
 | [0526-beautiful-arrangement](https://github.com/bansi1008/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0667-beautiful-arrangement-ii](https://github.com/bansi1008/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0692-top-k-frequent-words](https://github.com/bansi1008/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -147,6 +148,7 @@ This repository contains my solutions to LeetCode problems.
 | [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0390-elimination-game](https://github.com/bansi1008/Leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/bansi1008/Leetcode/tree/master/0396-rotate-function) |
+| [0667-beautiful-arrangement-ii](https://github.com/bansi1008/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0796-reaching-points](https://github.com/bansi1008/Leetcode/tree/master/0796-reaching-points) |
 | [0830-largest-triangle-area](https://github.com/bansi1008/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0968-beautiful-array](https://github.com/bansi1008/Leetcode/tree/master/0968-beautiful-array) |
