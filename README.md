@@ -410,6 +410,7 @@ This repository contains my solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bansi1008/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/bansi1008/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/bansi1008/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -422,6 +423,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bansi1008/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/bansi1008/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/bansi1008/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bansi1008/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -543,6 +545,7 @@ This repository contains my solutions to LeetCode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/bansi1008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bansi1008/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/bansi1008/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bansi1008/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -593,6 +596,7 @@ This repository contains my solutions to LeetCode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/bansi1008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bansi1008/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/bansi1008/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bansi1008/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/bansi1008/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bansi1008/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -606,6 +610,7 @@ This repository contains my solutions to LeetCode problems.
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bansi1008/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/bansi1008/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/bansi1008/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/bansi1008/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
@@ -703,4 +708,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/bansi1008/Leetcode/tree/master/0830-largest-triangle-area) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bansi1008/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
