@@ -83,6 +83,7 @@ This repository contains my solutions to LeetCode problems.
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bansi1008/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bansi1008/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/bansi1008/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bansi1008/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -376,6 +377,7 @@ This repository contains my solutions to LeetCode problems.
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/bansi1008/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bansi1008/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
@@ -438,6 +440,7 @@ This repository contains my solutions to LeetCode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/bansi1008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bansi1008/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Interactive
 |  |
