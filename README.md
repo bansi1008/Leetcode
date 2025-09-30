@@ -93,6 +93,7 @@ This repository contains my solutions to LeetCode problems.
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -156,6 +157,7 @@ This repository contains my solutions to LeetCode problems.
 | [1018-largest-perimeter-triangle](https://github.com/bansi1008/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/bansi1008/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Two Pointers
 |  |
@@ -384,6 +386,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bansi1008/Leetcode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -394,6 +397,7 @@ This repository contains my solutions to LeetCode problems.
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Stack
