@@ -159,6 +159,7 @@ This repository contains my solutions to LeetCode problems.
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/bansi1008/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/bansi1008/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1642-water-bottles](https://github.com/bansi1008/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Two Pointers
@@ -402,6 +403,7 @@ This repository contains my solutions to LeetCode problems.
 | [0735-asteroid-collision](https://github.com/bansi1008/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bansi1008/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/bansi1008/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [1642-water-bottles](https://github.com/bansi1008/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
