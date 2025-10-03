@@ -310,6 +310,7 @@ This repository contains my solutions to LeetCode problems.
 | [0494-target-sum](https://github.com/bansi1008/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/bansi1008/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/bansi1008/Leetcode/tree/master/1331-path-with-maximum-gold) |
 ## Sorting
 |  |
@@ -592,6 +593,7 @@ This repository contains my solutions to LeetCode problems.
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bansi1008/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/bansi1008/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1008-binary-tree-cameras](https://github.com/bansi1008/Leetcode/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
@@ -647,6 +649,7 @@ This repository contains my solutions to LeetCode problems.
 | [0695-max-area-of-island](https://github.com/bansi1008/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bansi1008/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Data Stream
 |  |
 | ------- |
@@ -695,6 +698,7 @@ This repository contains my solutions to LeetCode problems.
 | [0210-course-schedule-ii](https://github.com/bansi1008/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bansi1008/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/bansi1008/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1325-path-with-maximum-probability](https://github.com/bansi1008/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bansi1008/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
