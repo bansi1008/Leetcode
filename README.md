@@ -575,6 +575,7 @@ This repository contains my solutions to LeetCode problems.
 | [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/bansi1008/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1008-binary-tree-cameras](https://github.com/bansi1008/Leetcode/tree/master/1008-binary-tree-cameras) |
+| [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -601,6 +602,7 @@ This repository contains my solutions to LeetCode problems.
 | [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/bansi1008/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1008-binary-tree-cameras](https://github.com/bansi1008/Leetcode/tree/master/1008-binary-tree-cameras) |
+| [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 ## Binary Tree
 |  |
 | ------- |
@@ -655,6 +657,7 @@ This repository contains my solutions to LeetCode problems.
 | [0744-network-delay-time](https://github.com/bansi1008/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bansi1008/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 ## Data Stream
 |  |
 | ------- |
@@ -706,6 +709,7 @@ This repository contains my solutions to LeetCode problems.
 | [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/bansi1008/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1325-path-with-maximum-probability](https://github.com/bansi1008/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bansi1008/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
