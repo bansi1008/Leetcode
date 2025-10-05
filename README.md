@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems.
 | [0039-combination-sum](https://github.com/bansi1008/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bansi1008/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bansi1008/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/bansi1008/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bansi1008/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bansi1008/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bansi1008/Leetcode/tree/master/0047-permutations-ii) |
@@ -185,6 +186,7 @@ This repository contains my solutions to LeetCode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bansi1008/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bansi1008/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/bansi1008/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bansi1008/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/bansi1008/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bansi1008/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -362,6 +364,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bansi1008/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/bansi1008/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bansi1008/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/bansi1008/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bansi1008/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bansi1008/Leetcode/tree/master/0053-maximum-subarray) |
@@ -439,6 +442,7 @@ This repository contains my solutions to LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bansi1008/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bansi1008/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/bansi1008/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bansi1008/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -468,6 +472,7 @@ This repository contains my solutions to LeetCode problems.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bansi1008/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/bansi1008/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/bansi1008/Leetcode/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
