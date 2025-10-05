@@ -235,6 +235,7 @@ This repository contains my solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/bansi1008/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -266,6 +267,7 @@ This repository contains my solutions to LeetCode problems.
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/bansi1008/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1652-minimum-suffix-flips](https://github.com/bansi1008/Leetcode/tree/master/1652-minimum-suffix-flips) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## String Matching
 |  |
 | ------- |
@@ -321,6 +323,7 @@ This repository contains my solutions to LeetCode problems.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/bansi1008/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -388,6 +391,7 @@ This repository contains my solutions to LeetCode problems.
 | [1008-binary-tree-cameras](https://github.com/bansi1008/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -744,6 +748,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/bansi1008/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Geometry
 |  |
 | ------- |
