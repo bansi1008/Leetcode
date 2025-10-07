@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode problems.
 | [0747-min-cost-climbing-stairs](https://github.com/bansi1008/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/bansi1008/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/bansi1008/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0833-bus-routes](https://github.com/bansi1008/Leetcode/tree/master/0833-bus-routes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bansi1008/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/bansi1008/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/bansi1008/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -314,6 +315,7 @@ This repository contains my solutions to LeetCode problems.
 | [0567-permutation-in-string](https://github.com/bansi1008/Leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/bansi1008/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/bansi1008/Leetcode/tree/master/0740-delete-and-earn) |
+| [0833-bus-routes](https://github.com/bansi1008/Leetcode/tree/master/0833-bus-routes) |
 | [0940-fruit-into-baskets](https://github.com/bansi1008/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -707,6 +709,7 @@ This repository contains my solutions to LeetCode problems.
 | [0794-swim-in-rising-water](https://github.com/bansi1008/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bansi1008/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0833-bus-routes](https://github.com/bansi1008/Leetcode/tree/master/0833-bus-routes) |
 | [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1753-path-with-minimum-effort](https://github.com/bansi1008/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Data Stream
