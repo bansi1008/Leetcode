@@ -123,6 +123,7 @@ This repository contains my solutions to LeetCode problems.
 | [2591-frog-jump-ii](https://github.com/bansi1008/Leetcode/tree/master/2591-frog-jump-ii) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bansi1008/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bansi1008/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
@@ -148,6 +149,7 @@ This repository contains my solutions to LeetCode problems.
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bansi1008/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2591-frog-jump-ii](https://github.com/bansi1008/Leetcode/tree/master/2591-frog-jump-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +235,7 @@ This repository contains my solutions to LeetCode problems.
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/bansi1008/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bansi1008/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -341,6 +344,7 @@ This repository contains my solutions to LeetCode problems.
 | [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 ## Backtracking
 |  |
@@ -395,6 +399,7 @@ This repository contains my solutions to LeetCode problems.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bansi1008/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -439,6 +444,7 @@ This repository contains my solutions to LeetCode problems.
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
 | ------- |
@@ -567,6 +573,7 @@ This repository contains my solutions to LeetCode problems.
 | [0692-top-k-frequent-words](https://github.com/bansi1008/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Quickselect
 |  |
 | ------- |
