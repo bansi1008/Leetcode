@@ -304,6 +304,7 @@ This repository contains my solutions to LeetCode problems.
 | [0680-valid-palindrome-ii](https://github.com/bansi1008/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/bansi1008/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/bansi1008/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/bansi1008/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/bansi1008/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1652-minimum-suffix-flips](https://github.com/bansi1008/Leetcode/tree/master/1652-minimum-suffix-flips) |
@@ -339,6 +340,7 @@ This repository contains my solutions to LeetCode problems.
 | [0833-bus-routes](https://github.com/bansi1008/Leetcode/tree/master/0833-bus-routes) |
 | [0940-fruit-into-baskets](https://github.com/bansi1008/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/bansi1008/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/bansi1008/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
