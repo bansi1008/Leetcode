@@ -97,6 +97,7 @@ This repository contains my solutions to LeetCode problems.
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 | [1325-path-with-maximum-probability](https://github.com/bansi1008/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/bansi1008/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/bansi1008/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bansi1008/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -305,6 +306,7 @@ This repository contains my solutions to LeetCode problems.
 | [0692-top-k-frequent-words](https://github.com/bansi1008/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/bansi1008/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bansi1008/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/bansi1008/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/bansi1008/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1652-minimum-suffix-flips](https://github.com/bansi1008/Leetcode/tree/master/1652-minimum-suffix-flips) |
@@ -341,6 +343,7 @@ This repository contains my solutions to LeetCode problems.
 | [0940-fruit-into-baskets](https://github.com/bansi1008/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bansi1008/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/bansi1008/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/bansi1008/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -395,6 +398,7 @@ This repository contains my solutions to LeetCode problems.
 | [1018-largest-perimeter-triangle](https://github.com/bansi1008/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/bansi1008/Leetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/bansi1008/Leetcode/tree/master/1217-relative-sort-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/bansi1008/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bansi1008/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/bansi1008/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
