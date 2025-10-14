@@ -126,6 +126,7 @@ This repository contains my solutions to LeetCode problems.
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bansi1008/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bansi1008/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bansi1008/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
