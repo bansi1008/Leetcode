@@ -122,6 +122,7 @@ This repository contains my solutions to LeetCode problems.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bansi1008/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2591-frog-jump-ii](https://github.com/bansi1008/Leetcode/tree/master/2591-frog-jump-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bansi1008/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -354,6 +355,7 @@ This repository contains my solutions to LeetCode problems.
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -410,6 +412,7 @@ This repository contains my solutions to LeetCode problems.
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bansi1008/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
@@ -498,6 +501,7 @@ This repository contains my solutions to LeetCode problems.
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3336-water-bottles-ii](https://github.com/bansi1008/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -572,6 +576,7 @@ This repository contains my solutions to LeetCode problems.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bansi1008/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/bansi1008/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/bansi1008/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Bucket Sort
 |  |
