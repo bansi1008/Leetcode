@@ -542,6 +542,7 @@ This repository contains my solutions to LeetCode problems.
 | [0295-find-median-from-data-stream](https://github.com/bansi1008/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/bansi1008/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/bansi1008/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0715-range-module](https://github.com/bansi1008/Leetcode/tree/master/0715-range-module) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bansi1008/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
 ## Monotonic Stack
@@ -827,6 +828,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bansi1008/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0715-range-module](https://github.com/bansi1008/Leetcode/tree/master/0715-range-module) |
 ## Graph
 |  |
 | ------- |
@@ -876,5 +878,6 @@ This repository contains my solutions to LeetCode problems.
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/bansi1008/Leetcode/tree/master/0715-range-module) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/bansi1008/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
