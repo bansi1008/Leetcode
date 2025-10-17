@@ -145,6 +145,7 @@ This repository contains my solutions to LeetCode problems.
 | [0240-search-a-2d-matrix-ii](https://github.com/bansi1008/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/bansi1008/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/bansi1008/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0794-swim-in-rising-water](https://github.com/bansi1008/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bansi1008/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/bansi1008/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -572,6 +573,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bansi1008/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/bansi1008/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
