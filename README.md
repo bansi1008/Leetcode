@@ -283,6 +283,7 @@ This repository contains my solutions to LeetCode problems.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/bansi1008/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
@@ -321,6 +322,7 @@ This repository contains my solutions to LeetCode problems.
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1652-minimum-suffix-flips](https://github.com/bansi1008/Leetcode/tree/master/1652-minimum-suffix-flips) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -469,6 +471,7 @@ This repository contains my solutions to LeetCode problems.
 | [1488-sort-integers-by-the-power-value](https://github.com/bansi1008/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
@@ -869,6 +872,7 @@ This repository contains my solutions to LeetCode problems.
 | [0526-beautiful-arrangement](https://github.com/bansi1008/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Geometry
 |  |
