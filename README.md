@@ -126,6 +126,7 @@ This repository contains my solutions to LeetCode problems.
 | [2591-frog-jump-ii](https://github.com/bansi1008/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bansi1008/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bansi1008/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -214,6 +215,7 @@ This repository contains my solutions to LeetCode problems.
 | [2279-maximum-split-of-positive-even-integers](https://github.com/bansi1008/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bansi1008/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3336-water-bottles-ii](https://github.com/bansi1008/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -676,6 +678,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0204-count-primes](https://github.com/bansi1008/Leetcode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/bansi1008/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -905,4 +908,5 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bansi1008/Leetcode/tree/master/0204-count-primes) |
+| [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
