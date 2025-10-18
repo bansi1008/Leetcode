@@ -194,6 +194,7 @@ This repository contains my solutions to LeetCode problems.
 | [0227-basic-calculator-ii](https://github.com/bansi1008/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/bansi1008/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/bansi1008/Leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0390-elimination-game](https://github.com/bansi1008/Leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/bansi1008/Leetcode/tree/master/0396-rotate-function) |
@@ -455,6 +456,7 @@ This repository contains my solutions to LeetCode problems.
 | [0213-house-robber-ii](https://github.com/bansi1008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/bansi1008/Leetcode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/bansi1008/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/bansi1008/Leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/bansi1008/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
@@ -774,6 +776,7 @@ This repository contains my solutions to LeetCode problems.
 | [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bansi1008/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bansi1008/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/bansi1008/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bansi1008/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/bansi1008/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bansi1008/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
