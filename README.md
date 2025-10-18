@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems.
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bansi1008/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bansi1008/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/bansi1008/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/bansi1008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bansi1008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bansi1008/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -191,6 +192,7 @@ This repository contains my solutions to LeetCode problems.
 | [0096-unique-binary-search-trees](https://github.com/bansi1008/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bansi1008/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bansi1008/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bansi1008/Leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/bansi1008/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/bansi1008/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bansi1008/Leetcode/tree/master/0268-missing-number) |
@@ -672,6 +674,7 @@ This repository contains my solutions to LeetCode problems.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bansi1008/Leetcode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/bansi1008/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Tree
 |  |
@@ -898,4 +901,8 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0715-range-module](https://github.com/bansi1008/Leetcode/tree/master/0715-range-module) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/bansi1008/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bansi1008/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
