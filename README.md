@@ -331,6 +331,7 @@ This repository contains my solutions to LeetCode problems.
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/bansi1008/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1652-minimum-suffix-flips](https://github.com/bansi1008/Leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bansi1008/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
@@ -735,6 +736,7 @@ This repository contains my solutions to LeetCode problems.
 | [0863-sum-of-distances-in-tree](https://github.com/bansi1008/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1008-binary-tree-cameras](https://github.com/bansi1008/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bansi1008/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/bansi1008/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -795,6 +797,7 @@ This repository contains my solutions to LeetCode problems.
 | [0813-all-paths-from-source-to-target](https://github.com/bansi1008/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0833-bus-routes](https://github.com/bansi1008/Leetcode/tree/master/0833-bus-routes) |
 | [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bansi1008/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/bansi1008/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Data Stream
 |  |
@@ -908,5 +911,6 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bansi1008/Leetcode/tree/master/0204-count-primes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bansi1008/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
