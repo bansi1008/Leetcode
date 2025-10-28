@@ -137,6 +137,7 @@ This repository contains my solutions to LeetCode problems.
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bansi1008/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/bansi1008/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bansi1008/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -561,6 +562,7 @@ This repository contains my solutions to LeetCode problems.
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3336-water-bottles-ii](https://github.com/bansi1008/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/bansi1008/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bansi1008/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
@@ -611,6 +613,7 @@ This repository contains my solutions to LeetCode problems.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bansi1008/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bansi1008/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/bansi1008/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/bansi1008/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bansi1008/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
