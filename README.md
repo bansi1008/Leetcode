@@ -231,6 +231,7 @@ This repository contains my solutions to LeetCode problems.
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3336-water-bottles-ii](https://github.com/bansi1008/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/bansi1008/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
@@ -308,6 +309,7 @@ This repository contains my solutions to LeetCode problems.
 | [1022-unique-paths-iii](https://github.com/bansi1008/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/bansi1008/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
