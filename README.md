@@ -137,6 +137,7 @@ This repository contains my solutions to LeetCode problems.
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bansi1008/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bansi1008/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bansi1008/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bansi1008/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bansi1008/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -232,6 +233,7 @@ This repository contains my solutions to LeetCode problems.
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3336-water-bottles-ii](https://github.com/bansi1008/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bansi1008/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/bansi1008/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -406,6 +408,7 @@ This repository contains my solutions to LeetCode problems.
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/bansi1008/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bansi1008/Leetcode/tree/master/3444-find-the-number-of-good-pairs-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bansi1008/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
 |  |
 | ------- |
