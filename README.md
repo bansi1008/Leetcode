@@ -151,6 +151,7 @@ This repository contains my solutions to LeetCode problems.
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/bansi1008/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/bansi1008/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bansi1008/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/bansi1008/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -419,6 +420,7 @@ This repository contains my solutions to LeetCode problems.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bansi1008/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bansi1008/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bansi1008/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/bansi1008/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -670,6 +672,7 @@ This repository contains my solutions to LeetCode problems.
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bansi1008/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bansi1008/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/bansi1008/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -804,6 +807,7 @@ This repository contains my solutions to LeetCode problems.
 | [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bansi1008/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/bansi1008/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3863-power-grid-maintenance](https://github.com/bansi1008/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -865,6 +869,7 @@ This repository contains my solutions to LeetCode problems.
 | [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bansi1008/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/bansi1008/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3863-power-grid-maintenance](https://github.com/bansi1008/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Data Stream
 |  |
 | ------- |
@@ -886,6 +891,7 @@ This repository contains my solutions to LeetCode problems.
 | [0794-swim-in-rising-water](https://github.com/bansi1008/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bansi1008/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/bansi1008/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3863-power-grid-maintenance](https://github.com/bansi1008/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -936,6 +942,7 @@ This repository contains my solutions to LeetCode problems.
 | [1325-path-with-maximum-probability](https://github.com/bansi1008/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1493-frog-position-after-t-seconds](https://github.com/bansi1008/Leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bansi1008/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [3863-power-grid-maintenance](https://github.com/bansi1008/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -976,6 +983,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0715-range-module](https://github.com/bansi1008/Leetcode/tree/master/0715-range-module) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/bansi1008/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+| [3863-power-grid-maintenance](https://github.com/bansi1008/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
