@@ -131,6 +131,7 @@ This repository contains my solutions to LeetCode problems.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bansi1008/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2591-frog-jump-ii](https://github.com/bansi1008/Leetcode/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bansi1008/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -176,6 +177,7 @@ This repository contains my solutions to LeetCode problems.
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bansi1008/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2591-frog-jump-ii](https://github.com/bansi1008/Leetcode/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bansi1008/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -305,6 +307,7 @@ This repository contains my solutions to LeetCode problems.
 | [2279-maximum-split-of-positive-even-integers](https://github.com/bansi1008/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bansi1008/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2591-frog-jump-ii](https://github.com/bansi1008/Leetcode/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bansi1008/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Bit Manipulation
@@ -551,6 +554,7 @@ This repository contains my solutions to LeetCode problems.
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bansi1008/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bansi1008/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bansi1008/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bansi1008/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -639,6 +643,7 @@ This repository contains my solutions to LeetCode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bansi1008/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bansi1008/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bansi1008/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -884,6 +889,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bansi1008/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bansi1008/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
