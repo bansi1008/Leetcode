@@ -321,6 +321,7 @@ This repository contains my solutions to LeetCode problems.
 | [0526-beautiful-arrangement](https://github.com/bansi1008/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/bansi1008/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bansi1008/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/bansi1008/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -533,6 +534,7 @@ This repository contains my solutions to LeetCode problems.
 | [1488-sort-integers-by-the-power-value](https://github.com/bansi1008/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bansi1008/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bansi1008/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bansi1008/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2118-maximum-earnings-from-taxi](https://github.com/bansi1008/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/bansi1008/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -725,6 +727,7 @@ This repository contains my solutions to LeetCode problems.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bansi1008/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/bansi1008/Leetcode/tree/master/1013-fibonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/bansi1008/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bansi1008/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Linked List
 |  |
 | ------- |
