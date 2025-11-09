@@ -236,6 +236,7 @@ This repository contains my solutions to LeetCode problems.
 | [2174-next-greater-numerically-balanced-number](https://github.com/bansi1008/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bansi1008/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/bansi1008/Leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/bansi1008/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bansi1008/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -589,6 +590,7 @@ This repository contains my solutions to LeetCode problems.
 | [2048-build-array-from-permutation](https://github.com/bansi1008/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bansi1008/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/bansi1008/Leetcode/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/bansi1008/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bansi1008/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
