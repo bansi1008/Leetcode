@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/bansi1008/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0454-4sum-ii](https://github.com/bansi1008/Leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/bansi1008/Leetcode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/bansi1008/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/bansi1008/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/bansi1008/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0643-maximum-average-subarray-i](https://github.com/bansi1008/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -357,6 +358,7 @@ This repository contains my solutions to LeetCode problems.
 | [0392-is-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansi1008/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/bansi1008/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/bansi1008/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bansi1008/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bansi1008/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -525,6 +527,7 @@ This repository contains my solutions to LeetCode problems.
 | [0403-frog-jump](https://github.com/bansi1008/Leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/bansi1008/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/bansi1008/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/bansi1008/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/bansi1008/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/bansi1008/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/bansi1008/Leetcode/tree/master/0526-beautiful-arrangement) |
