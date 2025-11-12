@@ -135,6 +135,7 @@ This repository contains my solutions to LeetCode problems.
 | [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bansi1008/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bansi1008/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bansi1008/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/bansi1008/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/bansi1008/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -241,6 +242,7 @@ This repository contains my solutions to LeetCode problems.
 | [2288-count-operations-to-obtain-zero](https://github.com/bansi1008/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bansi1008/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bansi1008/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bansi1008/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3336-water-bottles-ii](https://github.com/bansi1008/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/bansi1008/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -768,6 +770,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0204-count-primes](https://github.com/bansi1008/Leetcode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/bansi1008/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bansi1008/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
