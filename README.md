@@ -314,6 +314,7 @@ This repository contains my solutions to LeetCode problems.
 | [2591-frog-jump-ii](https://github.com/bansi1008/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bansi1008/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/bansi1008/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/bansi1008/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
@@ -377,6 +378,7 @@ This repository contains my solutions to LeetCode problems.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bansi1008/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bansi1008/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/bansi1008/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
@@ -712,6 +714,7 @@ This repository contains my solutions to LeetCode problems.
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bansi1008/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/bansi1008/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bansi1008/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/bansi1008/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Quickselect
 |  |
 | ------- |
