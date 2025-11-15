@@ -379,6 +379,7 @@ This repository contains my solutions to LeetCode problems.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bansi1008/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bansi1008/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bansi1008/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/bansi1008/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/bansi1008/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
@@ -571,6 +572,7 @@ This repository contains my solutions to LeetCode problems.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bansi1008/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bansi1008/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bansi1008/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/bansi1008/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bansi1008/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/bansi1008/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bansi1008/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1026,4 +1028,5 @@ This repository contains my solutions to LeetCode problems.
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bansi1008/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/bansi1008/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2873-prime-pairs-with-target-sum](https://github.com/bansi1008/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/bansi1008/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
