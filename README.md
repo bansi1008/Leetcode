@@ -234,6 +234,7 @@ This repository contains my solutions to LeetCode problems.
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/bansi1008/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bansi1008/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/bansi1008/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/bansi1008/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/bansi1008/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/bansi1008/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bansi1008/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -372,6 +373,7 @@ This repository contains my solutions to LeetCode problems.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bansi1008/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/bansi1008/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/bansi1008/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/bansi1008/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1652-minimum-suffix-flips](https://github.com/bansi1008/Leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bansi1008/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bansi1008/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
